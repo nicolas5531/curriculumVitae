@@ -1,0 +1,21 @@
+/**Todos los elementos dentro del documento html*/
+*{
+    font-family: 'Righteous', cursive;
+    background-color: rgba(165, 42, 42, 0.062);
+}
+
+/** TITULO PRINCIPAL*/
+h1{
+    color: blueviolet;
+}
+
+#footer{
+    background-color: gray;
+}
+
+/**Elementos de clase*/
+
+.miclase{
+    color: rgb(0, 77, 0);
+    font-style: italic;
+}
