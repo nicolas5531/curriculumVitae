@@ -1,5 +1,0 @@
-# Visual Studio profiler
-.psess
-.vsp
-.vspx
-.vscode/
